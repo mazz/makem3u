@@ -28,9 +28,9 @@ A simple m3u file is like this:
 
 Requirements:
 
-- Python 2.2
-- pymad for track length - http://spacepants.org/src/pymad/
-- id3-py for reading ID3 infos - http://id3-py.sourceforge.net/
+- Python 3.x
+- pydub for track length - https://pypi.org/project/pydub/
+- tinytag for reading ID3 infos - https://pypi.org/project/tinytag/
 
 """
 
